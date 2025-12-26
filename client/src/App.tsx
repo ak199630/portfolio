@@ -442,8 +442,8 @@ function Portfolio() {
               <div className="w-32 h-32 md:w-40 md:h-40 flex-shrink-0 relative">
                 <div className="absolute inset-0 bg-indigo-600 rounded-full blur-lg opacity-20 animate-pulse"></div>
                 <img 
-                  src="/images/profile-placeholder.png" 
-                  alt="Profile" 
+                  src="/images/profile.png" 
+                  alt="Ankit Kumar - Product Manager" 
                   className="w-full h-full object-cover rounded-full border-4 border-white shadow-lg relative z-10"
                 />
               </div>
