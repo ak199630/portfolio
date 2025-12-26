@@ -1,8 +1,12 @@
 {
+  "buildCommand": "pnpm exec vite build",
+  "outputDirectory": "dist/public",
+  "installCommand": "pnpm install",
   "rewrites": [
     {
       "source": "/(.*)",
       "destination": "/index.html"
     }
-  ]
+  ],
+  "functions": {}
 }
